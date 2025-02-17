@@ -1,5 +1,5 @@
 <h1 align="center">
-  Vite Template React
+  Vite Template React For coding 
 </h1>
 
 <p align="center">
